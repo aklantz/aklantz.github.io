@@ -17,9 +17,10 @@ h1 {
 .project {
     width: 30%;
     margin: 50px;
-    padding: 20px 10px;
+    margin-left: 40px;
+    padding: 50px 40px;
     background: rgba(156, 155, 155, 0.788); /* pick a color */
-    border-radius: 25%;
+    border-radius: 10%;
 }
 
 
