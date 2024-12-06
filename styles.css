@@ -16,9 +16,9 @@ h1 {
 
 .project {
     width: 30%;
-    margin: 10px;
+    margin: 50px;
     padding: 20px 10px;
-    background: white; /* pick a color */
+    background: rgba(156, 155, 155, 0.788); /* pick a color */
     border-radius: 25%;
 }
 
@@ -40,7 +40,9 @@ h1 {
         width: 150px;
         height: 200px;
         border-radius: 25%;
-        border: 2px solid rgb(126, 14, 201);
+        border: 2px solid rgb(255, 255, 255);
         }   
+
+        
     
     
