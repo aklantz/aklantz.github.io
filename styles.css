@@ -2,11 +2,11 @@ body {
     background-color: navy;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: italic;
-    color: gold;
+    color: rgba(255, 217, 0, 0.747);
 }
 h1 {
     text-align: center;
-    color: gold;
+    color: rgba(255, 217, 0, 0.568);
 }
    
 .projects { 
